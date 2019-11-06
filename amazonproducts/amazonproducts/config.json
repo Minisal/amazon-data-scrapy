@@ -1,0 +1,6 @@
+{
+"database":"amazon_db", 
+"user":"yangxiaoyan", 
+"host":"127.0.0.1", 
+"port":"5432"
+}
